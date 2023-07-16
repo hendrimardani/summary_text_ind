@@ -2,11 +2,7 @@
 
 pip install -r requirement.txt
 ```
-python3 utama.py --file {lokasi file.txt}
-```
-### Atau
-```
-python3 utama.py -f {lokasi file.txt} 
+python3 utama.py --file {lokasi file.txt} --model {lokasi model model_summary_ind.h5}
 ```
 ### Untuk keterangan selengkapnya
 ```
