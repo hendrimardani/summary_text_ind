@@ -8,3 +8,5 @@ python3 utama.py --file {lokasi file.txt} --model {lokasi model model_summary_in
 ```
 python3 utama.py --help
 ```
+### Models
+Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.google.com/drive/folders/1nMbqrzNenaCwjQUPqgtJqWPxbgbFAdYV)
