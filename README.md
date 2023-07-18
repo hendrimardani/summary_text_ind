@@ -23,3 +23,7 @@ Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.
 
 - Total **90rb++ baris**
 - Total Jam training **110 menit**
+
+### Referensi
+- [Tensorboard](https://www.tensorflow.org/tensorboard/get_started?hl=id)
+- [Regex](https://regexr.com/)
