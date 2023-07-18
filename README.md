@@ -17,9 +17,10 @@ Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.
 3. Tokenize data (Merubah data kedalam tensor matrix)
 4. Split data (Membagi data training dan data test)
 5. Training model
-6. Prediksi data
-7. Evaluasi model (Menggunakan metrix Rogue-L F1-Score)
-8. Save model yang sudah di training(pre-trained model)
+6. Tampilkan hasil training
+7. Prediksi data
+8. Evaluasi model (Menggunakan metrix Rogue-L F1-Score)
+9. Save model yang sudah di training(pre-trained model)
 
 - Total **90rb++ baris**
 - Total Jam training **110 menit**
