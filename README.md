@@ -22,7 +22,8 @@ Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.
 8. Evaluasi model (Menggunakan metrix Rogue-L F1-Score)
 9. Save model yang sudah di training(pre-trained model)
 
-- Total **90rb++ baris**
+- Total **124rb++ baris**
+- Total setelah data bersih *clean data* **123rb++ baris**
 - Total Jam training **110 menit**
 
 ### Referensi
