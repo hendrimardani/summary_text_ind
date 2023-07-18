@@ -21,5 +21,5 @@ Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.
 7. Prediksi data
 8. Save model yang sudah di training(pre-trained model)
 
-- Total **90rb++ baris
-- Total Jam training **110 menit
+- Total **90rb++ baris**
+- Total Jam training **110 menit**
