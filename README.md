@@ -25,7 +25,7 @@ Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.
 ##### NOTE
 - Total **124rb++ baris**
 - Total setelah data bersih *clean data* **123rb++ baris**
-- Total Jam training **110 menit**
+- Total Jam training **1.2 Jam(130 menit)**
 
 ### Referensi
 - [Matplotlib](https://matplotlib.org/)
