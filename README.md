@@ -24,7 +24,7 @@ Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.
 
 ##### NOTE
 - Total **214794rb baris**
-- Total setelah data bersih *clean data* **214184b++ baris**
+- Total setelah data bersih *clean data* **214184rb baris**
 - Total Jam training **2.1 Jam(250 menit)**
 
 ### Referensi
