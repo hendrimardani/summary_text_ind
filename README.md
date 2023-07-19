@@ -31,3 +31,4 @@ Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.googl
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Regex](https://regexr.com/)
+- [Liputan 6](https://www.liputan6.com/)
