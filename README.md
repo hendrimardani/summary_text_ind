@@ -14,7 +14,7 @@ Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.googl
 ### Tahap-tahap proses
 1. Scraping data di https://www.liputan6.com/
 2. Link data hasil scrap [disini](https://drive.google.com/file/d/1_xZdzOD5X_f_KHYfUIeqwv27HzDDeK4f/view?usp=drive_link)
-3. Clearning data dengan Regex(Preprocessing data)
+3. Cleaning data dengan Regex(Preprocessing data)
 4. Tokenize data (Merubah data kedalam tensor matrix)
 5. Split data (Membagi data training dan data test)
 6. Training model
@@ -27,7 +27,7 @@ Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.googl
 
 - Total **214794rb baris**
 - Total setelah data bersih *clean data* **214184rb baris**
-- Total Jam training **2,3 Jam (150 menit)**
+- Total jam training **2,3 Jam (150 menit)**
 - Loss = 1.6616 dan Val_loss = 1.4471, sedikit mengalami overfitting. (Bisa ditambahkan lagi datanya) 
 
 ### Referensi
