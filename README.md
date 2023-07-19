@@ -13,14 +13,15 @@ Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.googl
 
 ### Tahap-tahap proses
 1. Scraping data di https://www.liputan6.com/
-2. Clearning data dengan Regex(Preprocessing data)
-3. Tokenize data (Merubah data kedalam tensor matrix)
-4. Split data (Membagi data training dan data test)
-5. Training model
-6. Tampilkan hasil training
-7. Prediksi data
-8. Evaluasi model (Menggunakan metrix Rogue-L F1-Score)
-9. Save model yang sudah di training(pre-trained model)
+2. Link data hasil scrap [disini]
+3. Clearning data dengan Regex(Preprocessing data)
+4. Tokenize data (Merubah data kedalam tensor matrix)
+5. Split data (Membagi data training dan data test)
+6. Training model
+7. Tampilkan hasil training
+8. Prediksi data
+9. Evaluasi model (Menggunakan metrix Rogue-L F1-Score)
+10. Save model yang sudah di training(pre-trained model)
 
 ##### NOTE
 - Total **214794rb baris**
