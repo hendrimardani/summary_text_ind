@@ -13,7 +13,7 @@ Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.googl
 
 ### Tahap-tahap proses
 1. Scraping data di https://www.liputan6.com/
-2. Link data hasil scrap [disini]
+2. Link data hasil scrap [disini](https://drive.google.com/file/d/1_xZdzOD5X_f_KHYfUIeqwv27HzDDeK4f/view?usp=drive_link)
 3. Clearning data dengan Regex(Preprocessing data)
 4. Tokenize data (Merubah data kedalam tensor matrix)
 5. Split data (Membagi data training dan data test)
