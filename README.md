@@ -9,7 +9,7 @@ python3 utama.py --file {lokasi file.txt} --model {lokasi model model_summary_in
 python3 utama.py --help
 ```
 ### Models
-Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.google.com/drive/folders/1nMbqrzNenaCwjQUPqgtJqWPxbgbFAdYV)
+Dikarenakan file > 25mb, download model pre-trained disini [Link](https://drive.google.com/file/d/12mVdi-QeohhxxBv6cqKSZBNzugWnOPwf/view?usp=sharing)
 
 ### Tahap-tahap proses
 1. Scraping data di https://www.liputan6.com/
