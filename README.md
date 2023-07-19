@@ -26,7 +26,7 @@ Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.googl
 ##### NOTE
 - Total **214794rb baris**
 - Total setelah data bersih *clean data* **214184rb baris**
-- Total Jam training **2.1 Jam(250 menit)**
+- Total Jam training **2.1 Jam (250 menit)**
 - Loss = 1.6616 dan Val_loss = 1.4471, sedikit mengalami overfitting. (Bisa ditambahkan lagi datanya) 
 
 ### Referensi
