@@ -24,6 +24,7 @@ Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.googl
 10. Save model yang sudah di training(pre-trained model)
 
 ##### NOTE
+
 - Total **214794rb baris**
 - Total setelah data bersih *clean data* **214184rb baris**
 - Total Jam training **2.1 Jam (250 menit)**
@@ -34,3 +35,8 @@ Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.googl
 - [Seaborn](https://seaborn.pydata.org/)
 - [Regex](https://regexr.com/)
 - [Liputan 6](https://www.liputan6.com/)
+
+![vokoscreenNG-2023-07-19_14-28-04](https://github.com/hendrimardani/summary_text_ind/assets/49816104/5fefd6bd-7d38-4fe1-8761-951450fc60d8)
+
+
+
