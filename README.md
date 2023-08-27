@@ -18,8 +18,8 @@ Due to files > 25mb, download model pre-trained [here](https://drive.google.com/
 4. Tokenize data (Convert data into tensor matrix)
 5. Split data (Divide training data and test data)
 6. Training model
-7. Data Prediction
-8. Model Evalutaion (Use metrix rogue-L f1-score)
+7. Data prediction
+8. Model evalutaion (Use metrix rogue-L f1-score)
 9. Save model(Pre-trained model)
 
 ##### NOTE:
