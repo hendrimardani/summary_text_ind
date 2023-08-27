@@ -1,33 +1,33 @@
-### Cara Penggunaaan
+### How to use
 
 pip install -r requirement.txt
 ```
-python3 utama.py --file {lokasi file.txt} --model {lokasi model model_summary_ind.h5}
+python3 utama.py --file {path file.txt} --model {path model model_summary_ind.h5}
 ```
-### Untuk keterangan selengkapnya
+### Options
 ```
 python3 utama.py --help
 ```
 ### Models
-Dikarenakan file > 25mb, download model pre-trained [disini](https://drive.google.com/file/d/12mVdi-QeohhxxBv6cqKSZBNzugWnOPwf/view?usp=sharing)
+Due to files > 25mb, download model pre-trained [here](https://drive.google.com/file/d/12mVdi-QeohhxxBv6cqKSZBNzugWnOPwf/view?usp=sharing)
 
-### Tahap-tahap proses
-1. Scraping data di https://www.liputan6.com/
-2. Link data hasil scrap [disini](https://drive.google.com/file/d/1_xZdzOD5X_f_KHYfUIeqwv27HzDDeK4f/view?usp=drive_link)
-3. Cleaning data dengan Regex (Preprocessing data)
-4. Tokenize data (Merubah data kedalam tensor matrix)
-5. Split data (Membagi data training dan data test)
+### Process stages
+1. Scraping data in https://www.liputan6.com/
+2. Link data results scrap [here](https://drive.google.com/file/d/1_xZdzOD5X_f_KHYfUIeqwv27HzDDeK4f/view?usp=drive_link)
+3. Cleaning data with Regex (Preprocessing data)
+4. Tokenize data (Convert data into tensor matrix)
+5. Split data (Divide training data and test data)
 6. Training model
-7. Prediksi data
-8. Evaluasi model (Menggunakan metrix Rogue-L F1-Score)
-9. Save model yang sudah di training(pre-trained model)
+7. Data Prediction
+8. Model Evalutaion (Use metrix rogue-L f1-score)
+9. Save model(Pre-trained model)
 
 ##### NOTE:
 
-- Total **214794rb baris**
-- Total setelah data bersih *clean data* **214184rb baris**
-- Total jam training **2,3 Jam (150 menit)**
-- Loss = 1.6616 dan Val_loss = 1.4471, sedikit mengalami overfitting. (Bisa ditambahkan lagi datanya) 
+- Total **214794 thousand lines**
+- Total *clean data* **214184 thousand baris**
+- Total training hours **2,3 hours (150 minutes)**
+- Loss = 1.6616 dan Val_loss = 1.4471, slightly overfitting. (can be again added data) 
 
 ### Referensi
 - [Matplotlib](https://matplotlib.org/)
