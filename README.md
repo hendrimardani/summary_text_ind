@@ -1,5 +1,5 @@
 # Description
-Performing text summarization using the T5-small transformer model via the Command Line Interface (CLI). The dataset used was obtained by scraping data from the website https://www.liputan6.com/ in JSON format for model training purposes. 
+Performing text summarization using the T5-small transformer model via the Command Line Interface (CLI). The dataset used was obtained by scraping data from the website https://www.liputan6.com/ in JSON format for model training purposes.
 
 # Usage
 pip install -r requirement.txt
