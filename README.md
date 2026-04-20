@@ -1,17 +1,19 @@
-### How to use
+# Description
+Generate a summary of a text using a trained model via the Command Line Interface (CLI). The dataset used was obtained by scraping data from the website https://www.liputan6.com/ in JSON format for model training purposes. 
 
+# Usage
 pip install -r requirement.txt
 ```
 python3 utama.py --file {path file.txt} --model {path model model_summary_ind.h5}
 ```
-### Options
+# Options
 ```
 python3 utama.py --help
 ```
-### Models
+# Models
 Due to files > 25mb, download model pre-trained [here](https://drive.google.com/file/d/12mVdi-QeohhxxBv6cqKSZBNzugWnOPwf/view?usp=sharing)
 
-### Process stages
+# Process stages
 1. Scraping data in https://www.liputan6.com/
 2. Link data results scrap [here](https://drive.google.com/file/d/1_xZdzOD5X_f_KHYfUIeqwv27HzDDeK4f/view?usp=drive_link)
 3. Cleaning data with Regex (Preprocessing data)
@@ -29,7 +31,7 @@ Due to files > 25mb, download model pre-trained [here](https://drive.google.com/
 - Total training hours **2,3 hours (150 minutes)**
 - Loss = 1.6616 dan Val_loss = 1.4471, slightly overfitting. (can be again added data) 
 
-### Referensi
+# Reference
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Regex](https://regexr.com/)
